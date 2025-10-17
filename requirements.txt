@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+flask
+numpy
+scikit-learn
+jieba
+nltk
